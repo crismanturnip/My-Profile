@@ -5,7 +5,8 @@
 }
 
 body {
-  height: 100vh
+  height: 100vh;
+  overscroll-behavior: none;
   font-family: "Poppins", sans-serif;
   font-optical-sizing: auto;
   position: relative;
